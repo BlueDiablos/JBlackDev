@@ -1,8 +1,9 @@
 import './App.css'
 import Nav from './components/navbar'
-import Home from './components/home'
+import Home from './pages/home'
+
 function App() {
-  return (
+return (
     <div className="App">
         <Nav/>
         <Home/>
