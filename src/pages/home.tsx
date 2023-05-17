@@ -42,10 +42,7 @@ const Home = () => {
                 Bio
             </Heading>
             <Paragraph>
-                A Software Engineer 2 for WebstaurantStore.com based out of 
-                Charlotte NC. When not behind a keyboard, I enjoy spending 
-                time with my family, investing, tinkering with new toys, 
-                and using oxford comma jokes to break the ice. 
+                Testing
             </Paragraph>
         </Section>
         
